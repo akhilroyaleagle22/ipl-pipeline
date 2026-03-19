@@ -1,0 +1,20 @@
+# Data files (too large for GitHub)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Airflow logs and temp files
+airflow/logs/
+airflow/airflow.db
+airflow/*.cfg
+airflow/*.pid
+
+# Environment
+.env
+*.env
+
+# VS Code
+.vscode/
